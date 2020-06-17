@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPL", "Lab1\TPL.csproj", "{CE5D58E1-30AB-4C19-931D-6CADF9A0E2C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akka", "Akka\Akka.csproj", "{D17D225E-8C4B-46F4-86C7-7DD771D8BB91}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{7081E141-945B-408C-AA57-C2EF8B711841}"
+	ProjectSection(SolutionItems) = preProject
+		Fibonacci.cs = Fibonacci.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE5D58E1-30AB-4C19-931D-6CADF9A0E2C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5D58E1-30AB-4C19-931D-6CADF9A0E2C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5D58E1-30AB-4C19-931D-6CADF9A0E2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5D58E1-30AB-4C19-931D-6CADF9A0E2C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D17D225E-8C4B-46F4-86C7-7DD771D8BB91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17D225E-8C4B-46F4-86C7-7DD771D8BB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17D225E-8C4B-46F4-86C7-7DD771D8BB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17D225E-8C4B-46F4-86C7-7DD771D8BB91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A54B7AF-DB73-4301-BB02-4A99217B91BD}
+	EndGlobalSection
+EndGlobal

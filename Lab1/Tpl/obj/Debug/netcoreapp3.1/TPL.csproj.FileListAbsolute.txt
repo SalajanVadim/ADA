@@ -1,0 +1,10 @@
+C:\Users\nbotn\source\repos\Lab1\Lab1\Lab1\bin\Debug\netcoreapp3.1\TPL.exe
+C:\Users\nbotn\source\repos\Lab1\Lab1\Lab1\bin\Debug\netcoreapp3.1\TPL.deps.json
+C:\Users\nbotn\source\repos\Lab1\Lab1\Lab1\bin\Debug\netcoreapp3.1\TPL.runtimeconfig.json
+C:\Users\nbotn\source\repos\Lab1\Lab1\Lab1\bin\Debug\netcoreapp3.1\TPL.runtimeconfig.dev.json
+C:\Users\nbotn\source\repos\Lab1\Lab1\Lab1\bin\Debug\netcoreapp3.1\TPL.dll
+C:\Users\nbotn\source\repos\Lab1\Lab1\Lab1\bin\Debug\netcoreapp3.1\TPL.pdb
+C:\Users\nbotn\source\repos\Lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\TPL.AssemblyInfoInputs.cache
+C:\Users\nbotn\source\repos\Lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\TPL.AssemblyInfo.cs
+C:\Users\nbotn\source\repos\Lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\TPL.dll
+C:\Users\nbotn\source\repos\Lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\TPL.pdb
